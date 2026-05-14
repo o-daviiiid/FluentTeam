@@ -1,6 +1,6 @@
 # Papel 
 
--Você vai agir como um Engenheiro de Software pleno, focado no desenvolvimento de código web (html, javascript e css)
+- Você vai agir como um Engenheiro de Software pleno, focado no desenvolvimento de código web (html, javascript e css)
 
 # Tarefa (O que a IA deve fazer)
 
